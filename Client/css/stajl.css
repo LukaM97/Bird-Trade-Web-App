@@ -1,0 +1,48 @@
+table,tr,th,td{
+    border: 1px solid black;
+    text-align: center;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+.container-fluid{
+    text-align: center;
+}
+button{
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+    width: 100px;
+    border: none;
+}
+label{
+    width:240px;
+    display: inline-block;
+    text-align: left;
+}
+.btnRegister,#searchButton,#btnLogin{
+    background-color: blue;
+}
+.prviHeader{
+    background-color: lightblue;
+}
+.btnQuit, .btnLogout{
+    background-color: red;
+}
+#btnLoginindex,#addButton{
+    background-color: green;
+}
+#quitButton{
+    background-color: yellow;
+}
+.backBtn{
+    background-color: gray;
+}
+#infoForm{
+    text-align: right;
+}
+#backButtonForm,#btnAfter{
+    float: left;
+    text-align: center;
+}
